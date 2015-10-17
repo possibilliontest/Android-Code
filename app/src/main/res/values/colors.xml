@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
+<color name="white">#FFFFFF</color>
+<color name="black">#000000</color>
+<color name="blue">#000000</color>
+<color name="transparent">#00FFFFFF</color>
+<color name="my_primary">#7aaf19</color>
+<color name="my_primary_light">#e1ffe9</color>
+<color name="my_primary_dark">#7aaf19</color>
+<color name="my_accent">#7aaf19</color>
+<color name="my_primary_text">#000000</color>
+<color name="my_secondary_text">#FFFFFF</color>
+<color name="my_icons">#FFFFFF</color>
+<color name="my_divider">#A6E190</color>
+<color name="window_background">#e5e5e5</color>
+
+<color name="gradient_one">#b1db22</color>
+<color name="gradient_two">#7aaf19</color>
+
 </resources>
